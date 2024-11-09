@@ -5,7 +5,7 @@ import re
 
 # Removed the st.set_page_config call from here
 
-genai.configure(api_key="AIzaSyDDDHAs0Pvw25zQHP2Qg8t9rzd-70sFBqA")
+genai.configure(api_key="YOUR API KEY")
 
 st.title("Health Assistant Bot")
 
