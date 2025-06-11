@@ -1,7 +1,7 @@
 # PESU IO Course Project: Health Assistant Bot
 
 ## Overview
-This project is a Health Assistant Bot built using Google's Gemini model. It is part of the **PES University** (PESU) IO course. The bot provides assistance in health-related topics, offering actionable steps, health tips, and factual information based on user queries. It also features a **Chatbot** page and an **FAQ** page displaying frequently asked questions related to health and wellness.
+This project is a Health Assistant Bot built using Google's Gemini model. It is part of the **PES University** (PESU) IO course. The bot provides assistance in health-related topics, offering actionable steps, health tips,location based services and factual information based on user queries. It also features a **Chatbot** page and an **FAQ** page displaying frequently asked questions related to health and wellness.**(Note this is not a replacement to a physician.)**
 
 ### Features:
 - **Chatbot**: The chatbot interacts with users, answering health-related queries using the Gemini model. 
@@ -91,4 +91,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - Thanks to **Google Gemini** for providing the powerful generative model used in this project.
-- Special thanks to **PES University** for providing the opportunity to work on this project.
+- Special thanks to **PES University(PESU I/O)** for providing the opportunity to work on this project.
